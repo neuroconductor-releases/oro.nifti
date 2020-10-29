@@ -19,3 +19,6 @@ revdep/*
 ^appveyor\.yml$
 ^vignettes/*\.jpeg$
 ^vignettes/*\.nii\.gz$
+^DESCRIPTION\.bak$
+^\./\.travis\.yml\.bak$
+^\./appveyor\.yml\.bak$
